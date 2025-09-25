@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4205ce66.css",
+    "main.js": "/static/js/main.6cf614fc.js",
+    "static/js/453.8adb0212.chunk.js": "/static/js/453.8adb0212.chunk.js",
+    "static/media/WomanOnChair.jpg": "/static/media/WomanOnChair.39e5fa7d08c3f2b313c1.jpg",
+    "static/media/FurnitureDemo.jpg": "/static/media/FurnitureDemo.c5338bc7859e0a134c3f.jpg",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.f1a6d6f6ad4c60f72dcc.jpg",
+    "static/media/bedroom.png": "/static/media/bedroom.d353c36c60a8ac24e57d.png",
+    "static/media/living.png": "/static/media/living.e8ab87ff349469c93622.png",
+    "static/media/dining.png": "/static/media/dining.40c61d96b71a52b508e9.png",
+    "static/media/pingky.png": "/static/media/pingky.6f85070b84c5e0b81133.png",
+    "static/media/respira.png": "/static/media/respira.844d4e1efef6aae6846a.png",
+    "static/media/potty.png": "/static/media/potty.53074c551538f514a0e4.png",
+    "static/media/muggo.png": "/static/media/muggo.cad25bf74bca3c267f78.png",
+    "static/media/WhiteSofa.jpg": "/static/media/WhiteSofa.56905a7a7f93c78814fe.jpg",
+    "static/media/CozyCornerSofa.jpg": "/static/media/CozyCornerSofa.fd6f245fe502debd4a2f.jpg",
+    "static/media/SingleSeatRecliner.jpg": "/static/media/SingleSeatRecliner.cd005c896ef2b24c3bad.jpg",
+    "static/media/leviosa.png": "/static/media/leviosa.5f1df06e6f7f828e1428.png",
+    "static/media/lolito.png": "/static/media/lolito.d93f1155c8110b7ed0c7.png",
+    "static/media/syltherine.png": "/static/media/syltherine.3470388b6754d9d6bf7e.png",
+    "static/media/BrownSofa.jpg": "/static/media/BrownSofa.8cc3199342d057acda24.jpg",
+    "static/media/grifo.png": "/static/media/grifo.83fc071d1809f5d01e27.png",
+    "static/media/LShape4SeaterSofa.jpg": "/static/media/LShape4SeaterSofa.222804b02605fcf361e7.jpg",
+    "static/media/MultiColorSofa.jpg": "/static/media/MultiColorSofa.2a88aefa731643fbbe85.jpg",
+    "static/media/LShape8SeaterSofa.jpg": "/static/media/LShape8SeaterSofa.60acc66d5dfb07bbacb4.jpg",
+    "index.html": "/index.html",
+    "main.4205ce66.css.map": "/static/css/main.4205ce66.css.map",
+    "main.6cf614fc.js.map": "/static/js/main.6cf614fc.js.map",
+    "453.8adb0212.chunk.js.map": "/static/js/453.8adb0212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4205ce66.css",
+    "static/js/main.6cf614fc.js"
+  ]
+}
